@@ -62,12 +62,12 @@ line(766,160,770,160);
 
 image(img, 0, 0,400,400);
   //texto coordenadas
-textSize(25);
-text("X: " + mouseX + " Y: " + mouseY, 10, 20);
+//textSize(25);
+//text("X: " + mouseX + " Y: " + mouseY, 10, 20);
 
 textSize(10);
 fill(0,0,0);
-text("profe le juro que lo intenté", 550,388);
+//text("profe le juro que lo intenté", 550,388);
 
   //rayitas
 //fill(#F2D051);
