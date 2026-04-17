@@ -89,8 +89,8 @@ ellipse(770,200,25, 100);
 
 image(img, 0, 0,400,400);
   //texto coordenadas
-textSize(25);
-text("X: " + mouseX + " Y: " + mouseY, 10, 20);
+//textSize(25);
+//text("X: " + mouseX + " Y: " + mouseY, 10, 20);
 
 textSize(10);
 fill(0,0,0);
